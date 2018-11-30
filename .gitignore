@@ -12,3 +12,17 @@ gradle-app.setting
 
 # # Work around https://youtrack.jetbrains.com/issue/IDEA-116898
 # gradle/wrapper/gradle-wrapper.properties
+
+# macOS
+.DS_Store
+
+# Koodi
+/IntJoukkoSovellus/gradle/
+/IntJoukkoSovellus/.nb-gradle/
+/IntJoukkoSovellus/build/
+/IntJoukkoSovellus/bin/
+/Tennis/gradle/
+/Tennis/.nb-gradle/
+/Tennis/build/
+/Tennis/bin/
+
